@@ -2,7 +2,7 @@
 
 
 <div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">  
+<img align="right" alt="Igor-pic" height="150" style="border-radius:50px;" src=https://media.discordapp.net/attachments/1014971382750257175/1014971588971606126/Noc_Fatec_programmer_walking_in_the_void_hyper_realistic_ultra__b8b4ee06-1ec4-4d27-92e0-a7b382c8e5fb.png  
 </div>
 
 - 🌱 Estou aprendendo: Html, Css, Javascript, Python
