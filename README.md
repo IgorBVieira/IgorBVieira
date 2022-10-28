@@ -6,7 +6,7 @@
 </div>
   
 ##
-- 🌱 Estou aprendendo: Html, Css, Javascript, Python
+- 🌱 Estou aprendendo: Html, Css, Javascript, Python e AdvPL
 - 🤔 Gosto quando me ensinam qualquer coisa
 - ⚡ Fun fact: Estudo programação, audiovisual e danças urbanas
 - 🏫Ensino Superior: Fatec SJRP - Informatica para Negócios
