@@ -25,8 +25,8 @@
   <img align="center" alt="Igor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Igor-PRW" height="30" width="40" src=https://media.discordapp.net/attachments/1014971382750257175/1029006971287912518/icon_prw.png>
-  <img align="center" alt="Igor-PY" height="30" width="40" src=https://cdn-icons-png.flaticon.com/512/1822/1822899.png>
+  <img align="center" alt="Igor-PRW" height="30" width="30" src=https://media.discordapp.net/attachments/1014971382750257175/1029006971287912518/icon_prw.png>
+  <img align="center" alt="Igor-PY" height="30" width="30" src=https://cdn-icons-png.flaticon.com/512/1822/1822899.png>
 </div>
 
 ##
