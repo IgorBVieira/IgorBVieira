@@ -47,7 +47,7 @@
 
 
 
-![](https://visitcount.itsvg.in/api?id=IgorBVieira&icon=5&color=2a)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
