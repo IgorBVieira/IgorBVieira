@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working with ITMIL with AdvPL<br>👯 I’m looking to collaborate in any fast project<br>🤝 I’m looking for help with Learning Python n programming in general<br>🌱 I’m currently learning Python and AdvPL(Totvs)<br>💬 Ask me about Project, Prototype, Tools <br>⚡ Fun fact: I'm a dancer and i do audiovisual jobs
+🔭 I’m currently working for ITMIL with AdvPL<br>👯 I’m looking to collaborate in any fast project wiht Python and ADVPL<br>🤝 I’m looking for help with Learning Python n' programming in general<br>🌱 I’m currently learning Python and AdvPL(Totvs)<br>💬 Ask me about Project, Prototype, Tools <br>⚡ Fun fact: I'm a dancer and i do audiovisual jobs
 
 
 ## 🌐 Socials:
