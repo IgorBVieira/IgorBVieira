@@ -1,3 +1,5 @@
+![banner](https://cdn.discordapp.com/attachments/1014971382750257175/1110998557458169917/Banner_GitHub.png)
+
 # 💫 About Me:
 🔭 I’m currently working for ITMIL with AdvPL<br>👯 I’m looking to collaborate in any fast project with Python and ADVPL<br>🤝 I’m looking for help with Learning Python n' programming in general<br>🌱 I’m currently learning Python and AdvPL(Totvs)<br>💬 Ask me about Project, Prototype, Tools<br>⚡ Fun fact: I'm a dancer and parkour guy
 
