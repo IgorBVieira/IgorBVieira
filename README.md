@@ -76,5 +76,8 @@
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=IgorBVieira&icon=0&color=12)](https://visitcount.itsvg.in)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and https:rahuldkjaingithubiogh-profile-readme-generator/
  -->
