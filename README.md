@@ -157,5 +157,8 @@ PHP                      1 repo              █░░░░░░░░░░�
  Last Updated on 05/10/2023 15:34:31 UTC
 <!--END_SECTION:waka-->
 
+
+<!-- Dev Statistics by: https://github.com/anmol098/waka-readme-stats -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and https:rahuldkjaingithubiogh-profile-readme-generator/
  -->
