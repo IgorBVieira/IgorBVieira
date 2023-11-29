@@ -77,7 +77,7 @@
 [![Visit Count](https://visitcount.itsvg.in/api?id=IgorBVieira&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -160,7 +160,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IgorBVieira/IgorBVieira/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2023 18:37:30 UTC
+ Last Updated on 29/11/2023 18:49:24 UTC
 <!--END_SECTION:waka-->
 
 
