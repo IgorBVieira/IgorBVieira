@@ -120,19 +120,16 @@ Sunday                   41 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Go                       38 mins             ███████████████░░░░░░░░░░   61.23 % 
-Markdown                 14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-Other                    9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-go-study                 1 hr                ████████████████████████░   97.49 % 
-api_buffalo              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -152,7 +149,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IgorBVieira/IgorBVieira/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2023 01:16:37 UTC
+ Last Updated on 15/12/2023 06:22:48 UTC
 <!--END_SECTION:waka-->
 
 
