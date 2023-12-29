@@ -77,7 +77,7 @@
 [![Visit Count](https://visitcount.itsvg.in/api?id=IgorBVieira&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -156,7 +156,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IgorBVieira/IgorBVieira/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2023 06:22:30 UTC
+ Last Updated on 29/12/2023 06:36:39 UTC
 <!--END_SECTION:waka-->
 
 
