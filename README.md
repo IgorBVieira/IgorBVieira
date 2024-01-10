@@ -77,13 +77,13 @@
 [![Visit Count](https://visitcount.itsvg.in/api?id=IgorBVieira&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 12.0 kB Used in GitHub's Storage 
+> 📦 12.1 kB Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2024
  > 
@@ -120,16 +120,22 @@ Sunday                   44 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 18 mins             ████████████░░░░░░░░░░░░░   46.57 % 
+Dart                     14 mins             █████████░░░░░░░░░░░░░░░░   37.55 % 
+JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+igorbvieira.github.io    24 mins             ███████████████░░░░░░░░░░   60.88 % 
+Task_List_FatecRP        14 mins             █████████░░░░░░░░░░░░░░░░   36.37 % 
+DartTest                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -149,7 +155,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IgorBVieira/IgorBVieira/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2024 01:16:45 UTC
+ Last Updated on 10/01/2024 06:23:08 UTC
 <!--END_SECTION:waka-->
 
 
