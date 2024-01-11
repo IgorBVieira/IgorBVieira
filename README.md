@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working for **MIL INFORMATICA**
+- 🔭 I’m currently searching for a **opportunity**!
 
 - 🌱 I’m currently learning **MongoDB, React, Ionic, Spring and Typescript**
 
@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I'm a dancer in my free time and passionate FPS player**
 
-## 🌐 Conect with me
+## 🌐 Connect with me
 
 <a href="https://twitter.com/inoctys" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inoctys" height="30" width="40" />
