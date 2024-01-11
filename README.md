@@ -28,16 +28,16 @@
 
 ## 🌐 Conect with me
 
-<a href="https://twitter.com/inoctys" target="blank">
+<a href="https://twitter.com/inoctys" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inoctys" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/igor-bernardo-vieira/" target="blank">
+<a href="https://www.linkedin.com/in/igor-bernardo-vieira/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-bernardo-vieira/" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/noc.017/" target="blank">
+<a href="https://www.instagram.com/noc.017/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/noc.017/" height="30" width="40" />
 </a>
-<a href="https://medium.com/@igorbernardovieira" target="blank">
+<a href="https://medium.com/@igorbernardovieira" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@igorbernardovieira" height="30" width="40" />
 </a>
 
