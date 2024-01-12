@@ -14,11 +14,11 @@
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 👨‍💻 All of my projects are available at [WORK IN PROGRESS]()
+- 👨‍💻 All of my projects are available at [My Portfolio](https://igorbvieira.github.io)
 
-- 📝 I regularly write articles on [WORK IN PROGRESS]()
+- 📝 I regularly write articles on [Medium](https://medium.com/@igorbernardovieira)
 
-- 💬 Ask me about **SQL, Javascript, Docker and Git**
+- 💬 Ask me about **SQL, Javascript, Flutter and Git**
 
 - 📫 How to reach me **<igorbernardovieira@gmail.com>**
 
