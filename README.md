@@ -79,6 +79,8 @@
 [![Visit Count](https://visitcount.itsvg.in/api?id=IgorBVieira&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2024%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -93,6 +95,45 @@
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+🌆 Daytime                161 commits         ███████████░░░░░░░░░░░░░░   44.35 % 
+🌃 Evening                102 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+🌙 Night                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Tuesday                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Wednesday                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Thursday                 80 commits          ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+Friday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Sunday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -110,7 +151,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IgorBVieira/IgorBVieira/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 06:23:59 UTC
+ Last Updated on 15/06/2024 06:38:19 UTC
 <!--END_SECTION:waka-->
 
 
