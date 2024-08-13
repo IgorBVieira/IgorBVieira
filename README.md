@@ -81,11 +81,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 166.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 89 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -149,7 +151,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IgorBVieira/IgorBVieira/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2024 01:25:50 UTC
+ Last Updated on 13/08/2024 06:28:10 UTC
 <!--END_SECTION:waka-->
 
 
