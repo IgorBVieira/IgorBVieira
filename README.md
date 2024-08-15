@@ -85,7 +85,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 166.9 kB Used in GitHub's Storage 
+> 📦 166.8 kB Used in GitHub's Storage 
  > 
 > 🏆 89 Contributions in the Year 2024
  > 
@@ -151,7 +151,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IgorBVieira/IgorBVieira/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2024 07:18:52 UTC
+ Last Updated on 15/08/2024 12:37:11 UTC
 <!--END_SECTION:waka-->
 
 
