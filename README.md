@@ -87,8 +87,6 @@
 
 > 📦 167.0 kB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -151,7 +149,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IgorBVieira/IgorBVieira/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2024 18:27:55 UTC
+ Last Updated on 19/09/2024 18:45:09 UTC
 <!--END_SECTION:waka-->
 
 
