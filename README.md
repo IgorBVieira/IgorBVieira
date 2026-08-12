@@ -18,15 +18,10 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [Meu Portfólio](https://igorbvieira.github.io)
 
-- 📝 Escrevo artigos no [Medium](https://medium.com/@igorbernardovieira)
-
-- 💬 Pergunte-me sobre **n8n, Chatbots/IA, Linux, Proxmox, Docker e Redes**
-
 - 📫 Como me encontrar **<igorbernardovieira@gmail.com>**
-
+´
 - 📄 Conheça minhas experiências [Aqui](https://www.linkedin.com/in/igor-bernardo-vieira/)
 
-- ⚡ Fato curto **Praticante de Double Dutch e Rope Skipping em ONG e dançarino de danças urbanas — comunicação e colaboração fazem parte de quem eu sou**
 
 ## 🌐 Conecte-se comigo
 
@@ -39,9 +34,7 @@
 <a href="https://www.instagram.com/noc.017/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/noc.017/" height="30" width="40" />
 </a>
-<a href="https://medium.com/@igorbernardovieira" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@igorbernardovieira" height="30" width="40" />
-</a>
+
 
 <br><br>
 
@@ -57,21 +50,15 @@
 
 ## ⚙️ Infraestrutura & DevOps
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=black) ![VPS](https://img.shields.io/badge/VPS-%23000000.svg?style=for-the-badge&logo=cloud&logoColor=white) ![Coolify](https://img.shields.io/badge/Coolify-%23000000.svg?style=for-the-badge&logo=coolify&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-%2343B02A.svg?style=for-the-badge&logo=wazuh&logoColor=white) ![Fail2ban](https://img.shields.io/badge/Fail2ban-%23515151.svg?style=for-the-badge&logo=fail2ban&logoColor=white)
-
-## 🌐 Redes
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%231572B6.svg?style=for-the-badge&logo=network&logoColor=white) ![VLANs](https://img.shields.io/badge/VLANs-%23008080.svg?style=for-the-badge&logo=network&logoColor=white) ![VPN](https://img.shields.io/badge/VPN-%234285F4.svg?style=for-the-badge&logo=vpn&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![OPNSense](https://img.shields.io/badge/OPNSense-%23D94F00.svg?style=for-the-badge&logo=opnsense&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=black) ![VPS](https://img.shields.io/badge/VPS-%23000000.svg?style=for-the-badge&logo=cloud&logoColor=white) ![Coolify](https://img.shields.io/badge/Coolify-%23000000.svg?style=for-the-badge&logo=coolify&logoColor=white)
 
 ## 🗄️ Bancos de Dados
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🧑‍💻 Linguagens & Fullstack
 
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 🏭 ERP
 
@@ -83,44 +70,11 @@
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
-# 💼 Experiência
-
-**VoltsCore** — Proprietário | São José do Rio Preto, SP
-Mai 2024 – Presente
-
-**Prime2B Marketing Digital** — Assistente de TI | São José do Rio Preto, SP
-Jul 2025 – Presente
-- Automação e DevOps: arquitetura de integrações complexas via **n8n**, provisionamento de ambientes Cloud (AWS, VPS, Docker) e gestão de plataformas omnichannel (Chatwoot, Evolution API, Webhooks).
-- IA e Chatbots: desenvolvimento, engenharia de prompts e manutenção de **agentes conversacionais de IA** para múltiplos clientes, com PostgreSQL, Google API, Meta ADS e integração com CRMs e ERPs.
-- Infraestrutura, Redes e Cibersegurança: servidores (Proxmox, Linux, Windows), redes complexas (VLANs, OPNSense, Ubiquiti, TCP/IP, DNS), firewalls e soluções de segurança (Wazuh, Bitwarden).
-- Gestão de TI e Suporte: inventário, base de conhecimento e suporte avançado (N1–N3) para +70 usuários, em parque de +100 máquinas.
-
-**Lumière Fotografia** — Editor de Fotografia | São José do Rio Preto, SP
-Jul 2024 – Jun 2025
-
-**Atual Tecnologia Informática e Manutenção** — Técnico de Informática | São José do Rio Preto, SP
-Fev 2024 – Jun 2024
-- Suporte presencial e remoto, manutenção de PCs, notebooks e monitores, e administração remota de servidores Linux e ERP (MarketUP).
-
-**Mil Informática (Maza / Tarraf)** — Desenvolvedor | São José do Rio Preto, SP
-Out 2022 – Dez 2023
-- Desenvolvimento e manutenção em TOTVS Protheus (ADVPL), apps Web/Mobile (React, Ionic, Java, Spring Boot, MongoDB, TypeScript) e relatórios.
-
-**Verhaw IT** — Estagiário de Suporte Técnico | São José do Rio Preto, SP
-Set 2021 – Jan 2022
-- Suporte N1/N2, ativação de software via VPN e instalação de ferramentas de segurança da informação.
 
 ## 🎓 Formação Acadêmica
 
 **Tecnólogo em Informática para Negócios**
 Fatec São José do Rio Preto | Fev 2021 – Jun 2024
-
-## 📜 Certificações
-
-- **Imersão Agentes IA** — Hashtag (8h, Fev/2026)
-- **IA Express** — Simplifica (8h, Dez/2025)
-- **Fundamentos do Suporte Técnico** — Coursera (Mar/2024)
-- **Python Essentials 1** — Cisco (Mai/2023)
 
 ## 🌎 Idiomas
 
@@ -132,13 +86,3 @@ Fatec São José do Rio Preto | Fev 2021 – Jun 2024
 | Statistics | Streak | Top Languages |
 |--------------|--------|----------------------|
 | ![Statistics](https://github-readme-stats.vercel.app/api?username=IgorBVieira&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorBVieira&theme=highcontrast&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBVieira&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
-
-## 🏆 Troféus do GitHub
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=IgorBVieira&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=IgorBVieira&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Profile gerado com GPRM (https://gprm.itsvg.in) e personalizado para a nova realidade -->
